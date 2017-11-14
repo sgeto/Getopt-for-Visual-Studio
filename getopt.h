@@ -56,7 +56,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+#ifndef _DEBUG
 #pragma warning(disable:4996)
+#endif
 
 #define __GETOPT_H__
 
