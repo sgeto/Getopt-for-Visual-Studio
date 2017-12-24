@@ -1,0 +1,6 @@
+/alt/getopt_mb_uni_vc10/*.db
+.vs
+*.db
+*.obj
+*.pdb
+*.exe
